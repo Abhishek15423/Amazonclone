@@ -1,0 +1,7 @@
+* Border-box -> jb hum "border:border-box" ks use krte to jitni bhi pading, margin ya border hum dete h wo sari uske size ke ander hi audjest hota h.
+
+*CDN: Content Delivery Network
+
+*align-items : center -> element horizontaly center me aa jate h
+
+*    justify-content: space-evenly; -> sare items evenly space me divide ho jate h
